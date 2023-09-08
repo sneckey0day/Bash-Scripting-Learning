@@ -9,7 +9,7 @@ Welcome to my Bash scripting learning journey! This repository is a collection o
 - [Contributing](#contributing)
 - [License](#license)
 
-![Bash Logo]([https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif])
+![Bash Logo]([https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif)
 
 ## Getting Started
 
