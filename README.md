@@ -2,6 +2,8 @@
 
 Welcome to my Bash scripting learning journey! This repository is a collection of scripts, notes, and resources as I dive into the world of Bash scripting. Feel free to explore and learn alongside me.
 
+![Bash Logo]([https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif](https://media.tenor.com/va77EnyZ5yAAAAAd/hacker.gif)
+
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Scripts](#scripts)
@@ -9,7 +11,7 @@ Welcome to my Bash scripting learning journey! This repository is a collection o
 - [Contributing](#contributing)
 - [License](#license)
 
-![Bash Logo](https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif)
+
 
 ## Getting Started
 
