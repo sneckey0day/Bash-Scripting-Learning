@@ -9,4 +9,4 @@
 To start your own Bash scripting adventure, make sure you have Bash installed on your system. You can check if it's installed by running:
 
 ```bash
-$ bash --version
+bash --version
