@@ -4,16 +4,6 @@
 
 ![Bash Logo](https://media.tenor.com/va77EnyZ5yAAAAAd/hacker.gif)
 
-
-## Table of Contents
-- [Getting Started](#getting-started)
-- [Scripts](#scripts)
-- [Resources](#resources)
-- [Contributing](#contributing)
-- [License](#license)
-
-
-
 ## Getting Started
 
 To start your own Bash scripting adventure, make sure you have Bash installed on your system. You can check if it's installed by running:
